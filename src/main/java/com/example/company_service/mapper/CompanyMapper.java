@@ -1,5 +1,7 @@
-package com.example.company_service.company;
+package com.example.company_service.mapper;
 
+import com.example.company_service.company.Company;
+import com.example.company_service.dto.CompanyDto;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 import org.mapstruct.MappingTarget;

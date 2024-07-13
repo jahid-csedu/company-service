@@ -1,5 +1,7 @@
 package com.example.company_service.company;
 
+import com.example.company_service.dto.CompanyDto;
+import com.example.company_service.mapper.CompanyMapper;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;

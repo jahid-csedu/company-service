@@ -1,5 +1,6 @@
 package com.example.company_service.company;
 
+import com.example.company_service.dto.CompanyDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
