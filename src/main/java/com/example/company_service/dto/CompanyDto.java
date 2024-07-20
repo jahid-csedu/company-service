@@ -8,4 +8,5 @@ public class CompanyDto {
     private String name;
     private String location;
     private Integer numberOfEmployees;
+    private Double review;
 }
